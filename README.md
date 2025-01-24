@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gungunbansall/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Gungunbansall/Leetcode/tree/master/0055-jump-game) |
+| [0169-majority-element](https://github.com/Gungunbansall/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gungunbansall/Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -18,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gungunbansall/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Gungunbansall/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gungunbansall/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gungunbansall/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gungunbansall/Leetcode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -31,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Gungunbansall/Leetcode/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gungunbansall/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gungunbansall/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
