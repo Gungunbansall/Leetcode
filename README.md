@@ -80,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gungunbansall/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Gungunbansall/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Gungunbansall/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2389-design-a-text-editor](https://github.com/Gungunbansall/Leetcode/tree/master/2389-design-a-text-editor) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gungunbansall/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Gungunbansall/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2389-design-a-text-editor](https://github.com/Gungunbansall/Leetcode/tree/master/2389-design-a-text-editor) |
 ## Simulation
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gungunbansall/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gungunbansall/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Gungunbansall/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
