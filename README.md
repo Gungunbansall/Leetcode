@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gungunbansall/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gungunbansall/Leetcode/tree/master/0055-jump-game) |
+| [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gungunbansall/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gungunbansall/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Gungunbansall/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gungunbansall/Leetcode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gungunbansall/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
