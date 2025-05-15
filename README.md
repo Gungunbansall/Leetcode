@@ -193,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/Gungunbansall/Leetcode/tree/master/1415-students-and-examinations) |
 | [1827-invalid-tweets](https://github.com/Gungunbansall/Leetcode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Gungunbansall/Leetcode/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Gungunbansall/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Gungunbansall/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
