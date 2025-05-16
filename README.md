@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Gungunbansall/Leetcode/tree/master/0610-triangle-judgement) |
 | [1155-product-sales-analysis-iii](https://github.com/Gungunbansall/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Gungunbansall/Leetcode/tree/master/1182-game-play-analysis-iv) |
+| [1278-product-price-at-a-given-date](https://github.com/Gungunbansall/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/Gungunbansall/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1415-students-and-examinations](https://github.com/Gungunbansall/Leetcode/tree/master/1415-students-and-examinations) |
 | [1827-invalid-tweets](https://github.com/Gungunbansall/Leetcode/tree/master/1827-invalid-tweets) |
