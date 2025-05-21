@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Gungunbansall/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0577-employee-bonus](https://github.com/Gungunbansall/Leetcode/tree/master/0577-employee-bonus) |
 | [0610-triangle-judgement](https://github.com/Gungunbansall/Leetcode/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/Gungunbansall/Leetcode/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/Gungunbansall/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Gungunbansall/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1278-product-price-at-a-given-date](https://github.com/Gungunbansall/Leetcode/tree/master/1278-product-price-at-a-given-date) |
