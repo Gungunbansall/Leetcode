@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/Gungunbansall/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Gungunbansall/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/Gungunbansall/Leetcode/tree/master/1415-students-and-examinations) |
+| [1480-movie-rating](https://github.com/Gungunbansall/Leetcode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/Gungunbansall/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1827-invalid-tweets](https://github.com/Gungunbansall/Leetcode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Gungunbansall/Leetcode/tree/master/1877-find-followers-count) |
