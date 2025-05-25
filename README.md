@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Gungunbansall/Leetcode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Gungunbansall/Leetcode/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/Gungunbansall/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0577-employee-bonus](https://github.com/Gungunbansall/Leetcode/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/Gungunbansall/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Gungunbansall/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
