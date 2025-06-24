@@ -5,8 +5,9 @@ class Solution {
             int num = nums[i];
             int count =0;
             while(num > 0){
-                count++;
+            
                 num=num/10;
+                count++;
             }
         
         if(count %2==0){
