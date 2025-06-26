@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Gungunbansall/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gungunbansall/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Gungunbansall/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0162-find-peak-element](https://github.com/Gungunbansall/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Gungunbansall/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gungunbansall/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gungunbansall/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gungunbansall/Leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Gungunbansall/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gungunbansall/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Gungunbansall/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Gungunbansall/Leetcode/tree/master/0792-binary-search) |
