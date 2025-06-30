@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Gungunbansall/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Gungunbansall/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Gungunbansall/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Gungunbansall/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Gungunbansall/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gungunbansall/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gungunbansall/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Gungunbansall/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Gungunbansall/Leetcode/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/Gungunbansall/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gungunbansall/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Depth-First Search
