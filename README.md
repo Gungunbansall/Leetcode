@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Gungunbansall/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gungunbansall/Leetcode/tree/master/0055-jump-game) |
 | [1829-maximum-units-on-a-truck](https://github.com/Gungunbansall/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2032-largest-odd-number-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Gungunbansall/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Gungunbansall/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Gungunbansall/Leetcode/tree/master/0344-reverse-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2389-design-a-text-editor](https://github.com/Gungunbansall/Leetcode/tree/master/2389-design-a-text-editor) |
 ## Linked List
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Gungunbansall/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gungunbansall/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
