@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gungunbansall/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gungunbansall/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Gungunbansall/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Gungunbansall/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gungunbansall/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Gungunbansall/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gungunbansall/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Tree
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Gungunbansall/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Gungunbansall/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gungunbansall/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Gungunbansall/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Gungunbansall/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
