@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1182-game-play-analysis-iv](https://github.com/Gungunbansall/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1193-monthly-transactions-i](https://github.com/Gungunbansall/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Gungunbansall/Leetcode/tree/master/1278-product-price-at-a-given-date) |
+| [1280-students-and-examinations](https://github.com/Gungunbansall/Leetcode/tree/master/1280-students-and-examinations) |
 | [1292-immediate-food-delivery-ii](https://github.com/Gungunbansall/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Gungunbansall/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/Gungunbansall/Leetcode/tree/master/1415-students-and-examinations) |
