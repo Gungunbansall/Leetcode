@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Gungunbansall/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gungunbansall/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Gungunbansall/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gungunbansall/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gungunbansall/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Gungunbansall/Leetcode/tree/master/0389-find-the-difference) |
 | [1829-maximum-units-on-a-truck](https://github.com/Gungunbansall/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Gungunbansall/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Gungunbansall/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gungunbansall/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Gungunbansall/Leetcode/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/Gungunbansall/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2389-design-a-text-editor](https://github.com/Gungunbansall/Leetcode/tree/master/2389-design-a-text-editor) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Gungunbansall/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gungunbansall/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Gungunbansall/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Gungunbansall/Leetcode/tree/master/0476-number-complement) |
 ## Tree
 |  |
