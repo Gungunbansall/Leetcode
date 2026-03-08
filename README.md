@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Gungunbansall/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Gungunbansall/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gungunbansall/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gungunbansall/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Gungunbansall/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/Gungunbansall/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gungunbansall/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gungunbansall/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Gungunbansall/Leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Gungunbansall/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gungunbansall/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Gungunbansall/Leetcode/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Gungunbansall/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
