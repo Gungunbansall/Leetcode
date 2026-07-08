@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Gungunbansall/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gungunbansall/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gungunbansall/Leetcode/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/Gungunbansall/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Gungunbansall/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/2032-largest-odd-number-in-string) |
