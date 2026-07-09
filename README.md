@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gungunbansall/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gungunbansall/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0472-concatenated-words](https://github.com/Gungunbansall/Leetcode/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/Gungunbansall/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Gungunbansall/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gungunbansall/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Gungunbansall/Leetcode/tree/master/0389-find-the-difference) |
+| [0472-concatenated-words](https://github.com/Gungunbansall/Leetcode/tree/master/0472-concatenated-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Gungunbansall/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Dynamic Programming
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Gungunbansall/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Gungunbansall/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gungunbansall/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0472-concatenated-words](https://github.com/Gungunbansall/Leetcode/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Gungunbansall/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gungunbansall/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gungunbansall/Leetcode/tree/master/0389-find-the-difference) |
+| [0472-concatenated-words](https://github.com/Gungunbansall/Leetcode/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/Gungunbansall/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Gungunbansall/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gungunbansall/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0472-concatenated-words](https://github.com/Gungunbansall/Leetcode/tree/master/0472-concatenated-words) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -357,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gungunbansall/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0472-concatenated-words](https://github.com/Gungunbansall/Leetcode/tree/master/0472-concatenated-words) |
 ## Prefix Sum
 |  |
 | ------- |
