@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Gungunbansall/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gungunbansall/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gungunbansall/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gungunbansall/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/Gungunbansall/Leetcode/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gungunbansall/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Depth-First Search
 |  |
 | ------- |
