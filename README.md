@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gungunbansall/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gungunbansall/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gungunbansall/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0472-concatenated-words](https://github.com/Gungunbansall/Leetcode/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/Gungunbansall/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Gungunbansall/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Gungunbansall/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gungunbansall/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Gungunbansall/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gungunbansall/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Gungunbansall/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Gungunbansall/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gungunbansall/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Gungunbansall/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gungunbansall/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gungunbansall/Leetcode/tree/master/0389-find-the-difference) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gungunbansall/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gungunbansall/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gungunbansall/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Gungunbansall/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Gungunbansall/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Gungunbansall/Leetcode/tree/master/0472-concatenated-words) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Gungunbansall/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Gungunbansall/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gungunbansall/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Gungunbansall/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Gungunbansall/Leetcode/tree/master/0792-binary-search) |
