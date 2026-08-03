@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Gungunbansall/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Gungunbansall/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Gungunbansall/Leetcode/tree/master/0792-binary-search) |
+| [0877-stone-game](https://github.com/Gungunbansall/Leetcode/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gungunbansall/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gungunbansall/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gungunbansall/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gungunbansall/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0472-concatenated-words](https://github.com/Gungunbansall/Leetcode/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Gungunbansall/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Gungunbansall/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Gungunbansall/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gungunbansall/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/Gungunbansall/Leetcode/tree/master/1922-count-good-numbers) |
@@ -426,4 +429,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gungunbansall/Leetcode/tree/master/0022-generate-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Gungunbansall/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Gungunbansall/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Gungunbansall/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
