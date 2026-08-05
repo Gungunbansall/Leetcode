@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gungunbansall/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Gungunbansall/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Gungunbansall/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Gungunbansall/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gungunbansall/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2389-design-a-text-editor](https://github.com/Gungunbansall/Leetcode/tree/master/2389-design-a-text-editor) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gungunbansall/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gungunbansall/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Gungunbansall/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Gungunbansall/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Gungunbansall/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Gungunbansall/Leetcode/tree/master/0509-fibonacci-number) |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Gungunbansall/Leetcode/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Gungunbansall/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
