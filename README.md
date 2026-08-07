@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gungunbansall/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/Gungunbansall/Leetcode/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/Gungunbansall/Leetcode/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gungunbansall/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Depth-First Search
 |  |
