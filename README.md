@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Gungunbansall/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Gungunbansall/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Gungunbansall/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gungunbansall/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Gungunbansall/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Gungunbansall/Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Gungunbansall/Leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Gungunbansall/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Gungunbansall/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Gungunbansall/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gungunbansall/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
