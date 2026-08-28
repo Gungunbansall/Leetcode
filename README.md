@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Gungunbansall/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Gungunbansall/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Gungunbansall/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Gungunbansall/Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gungunbansall/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Gungunbansall/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Gungunbansall/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Gungunbansall/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Gungunbansall/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Gungunbansall/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gungunbansall/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gungunbansall/Leetcode/tree/master/0287-find-the-duplicate-number) |
